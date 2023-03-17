@@ -1,0 +1,6 @@
+mkdir test; cd test;  touch a; ls -l ; for i in {1..10}  ; do mkdir
+M$i  ; done ;
+
+cat a b
+  I am shashank
+  am gurunaga
